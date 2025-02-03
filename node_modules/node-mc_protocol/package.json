@@ -1,0 +1,27 @@
+{
+  "name": "node-mc_protocol",
+  "version": "0.1.7",
+  "description": "mcprotocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rights-s/node-mc_protocol.git"
+  },
+  "keywords": [
+    "mc_protocol"
+  ],
+  "author": "Naohiro Uchida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rights-s/node-mc_protocol/issues"
+  },
+  "homepage": "https://github.com/rights-s/node-mc_protocol#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "log4js": "^5.2.2",
+    "net": "^1.0.2"
+  }
+}
